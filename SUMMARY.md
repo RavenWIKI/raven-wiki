@@ -3,7 +3,7 @@
 * [1.基本功](1基本功.md)
     * [1.1 标点符号](11-标点符号.md)
     * [1.2 markdown语法](12-markdown语法.md)
-    * [1.3 Raven](13-raven.md)
+    * [1.3 Raven](/Raven快速上手.md#raven快速上手)
         * [1.3.1 Raven快速上手](131-raven快速上手.md)
         * [1.3.2 Raven使用手册](12-raven使用手册.md)
 * [2.InfoQ](README.md)
