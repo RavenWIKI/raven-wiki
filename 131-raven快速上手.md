@@ -2,7 +2,7 @@
 
 ## **一、收藏Raven，熟悉译者群**
 
-Raven的系统登陆地址为：[http:\/\/raven.infoq.com](http://http//raven.infoq.com)
+Raven的系统登陆地址为：[http://raven.infoq.com](http://http//raven.infoq.com)
 
 默认来说，Raven的登录名是你的申请加入团队时使用的邮箱，初始密码会发到这个邮箱里。
 
@@ -14,7 +14,7 @@ InfoQ的内容翻译主要分为新闻和深度文章两类。新闻一般篇幅
 
 要开始新闻翻译，首先进入新闻领取页面：
 
-[http:\/\/raven.infoq.com\/official\/rss\/news](http://raven.infoq.com/official/rss/news)
+[http://raven.infoq.com/official/rss/news](http://raven.infoq.com/official/rss/news)
 
 你可以在Raven页面左侧的列表中找到这个页面的入口：
 
@@ -64,7 +64,7 @@ InfoQ的内容翻译主要分为新闻和深度文章两类。新闻一般篇幅
 
 随着新闻进入待发布区，你会得到审校者的打分,收获特别的Raven积分：
 
-[http:\/\/raven.infoq.com\/statics\/credit\/user](http://raven.infoq.com/statics/credit/user)
+[http://raven.infoq.com/statics/credit/user](http://raven.infoq.com/statics/credit/user)
 
 信用度代表你的翻译水平的受认可程度，积分则可以用来做各种事情，如换取QCon大会的赠票。
 
@@ -72,7 +72,7 @@ InfoQ的内容翻译主要分为新闻和深度文章两类。新闻一般篇幅
 
 如果你对翻译新闻有信心了，则可以开始进行文章的翻译。翻译文章的流程跟新闻是一样的，最大的不同在于文章的审校周期偏长。你可以主动邀请之前审校过你新闻的老编辑来审校你翻译的深度文章。
 
-文章认领地址：[http:\/\/raven.infoq.com\/official\/rss\/articles](http://raven.infoq.com/official/rss/articles)
+文章认领地址：[http://raven.infoq.com/official/rss/articles](http://raven.infoq.com/official/rss/articles)
 
 文章翻译的提交地址和修改后提交地址同新闻翻译。
 
